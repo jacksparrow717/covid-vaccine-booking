@@ -13,7 +13,7 @@ def main():
     args = parser.parse_args()
 
     filename = 'vaccine-booking-details.json'
-    mobile = None
+    mobile = 9706209789
 
     print('Running Script')
     beep(500, 150)
